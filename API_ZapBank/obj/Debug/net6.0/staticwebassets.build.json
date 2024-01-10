@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VT/NAAK0B4S7AhIspNoMp2/HwYB7WLuYC9TrB9JWgVA=",
+  "Source": "API_ZapBank",
+  "BasePath": "_content/API_ZapBank",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
