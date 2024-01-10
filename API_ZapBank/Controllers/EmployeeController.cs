@@ -32,5 +32,11 @@ namespace API_ZapBank.Controllers
         {
             return Ok(await _employeeInterface.CreateEmployee(newEmployee));
         }
+        [HttpPost]
+        public async Task<ActionResult<ServiceResponse<List<EmployeeModel>>>> CreateEmployee(EmployeeModel newEmployee)
+        {
+            return Ok(await _employeeInterface.CreateEmployee(newEmployee));
+        }
+
     }
 }
